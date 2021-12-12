@@ -28,3 +28,9 @@ mv genesis.json config/
 使用您喜欢的名字来命名节点
 moniker = "节点名称"
 ```
+## 启动节点
+```
+./stchaind init --home ./  "<node name you prefer>"
+
+./stchaind start --home ./ 2>&1 >> chain.log &
+```
