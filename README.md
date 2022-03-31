@@ -1,6 +1,8 @@
 ## Stratos chain testnet 测试网说明
 ```
 测试网教程 https://github.com/stratosnet/stratos-chain-testnet/wiki/Stratos-chain-testnet-%E6%B5%8B%E8%AF%95%E7%BD%91%E8%AF%B4%E6%98%8E
+
+区块浏览器  https://explorer-tropos.thestratos.org/
 ```
 
 ## stratos config seeds
