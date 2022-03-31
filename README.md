@@ -3,6 +3,13 @@
 测试网教程 https://github.com/stratosnet/stratos-chain-testnet/wiki/Stratos-chain-testnet-%E6%B5%8B%E8%AF%95%E7%BD%91%E8%AF%B4%E6%98%8E
 ```
 
+## stratos config 连接
+### Comma separated list of seed nodes to connect to
+seeds = "90c18307c235c456ebdc127b98de503b30994599@54.189.208.239:26656,a97214289b659dca9db98963959bde117851b485@52.194.30.100:26656"
+
+### Comma separated list of nodes to keep persistent connections to
+persistent_peers = "d3d3526cea4b509624f4353b10eef3f6e7677a19@18.116.249.76:26656"
+
 ## Stratosnet build
 ```
 # 编译
